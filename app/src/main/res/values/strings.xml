@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fading TextView</string>
+    <string-array name="examples">
+        <item>Assalamualaikum</item>
+        <item>Selamat Pagi…</item>
+        <item>Selamat Malam…</item>
+        <item>Selamat Sore…</item>
+        <item>Selamat Malam…</item>
+    </string-array>
+</resources>
